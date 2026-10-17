@@ -1,4 +1,8 @@
-Nombre: joel
-Apellido: franco molina
+Integantes: 
+Joel Franco Molina ( PROGRAMADOR )
+Jhonn Deymar Gutierrez Garcia ( BASE DE DATOS  )
+leonardo Erick Balderrama Suares ( DISEÑADOR Y TEXTEADOR )
+
 Grupo: el club
+
 Rol: programador
