@@ -38,7 +38,7 @@
 
 ## 👥 4. Equipo y Responsabilidades
 * **Joel Franco Molina:** Programación y Desarrollo Core (C#).
-* **Leo:** Tester / Control de Calidad y Pruebas Unitarias.
+* **Leo:** Análisis de Sistemas, Pruebas y Maquetación UI.
 * **Jhonn:** Administración y Diseño de Base de Datos.
 
 ---
