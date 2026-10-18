@@ -1,13 +1,49 @@
-# PR2-2026-EL_CLUB
+# ⚽ EL CLUB - Sistema de Gestión
 
-## Descripción del Proyecto
-Proyecto desarrollado para la materia de Programación II - UNIFRANZ.
+**Materia:** Programación II (UNIFRANZ)  
+**Semestre:** 2° Semestre 2026  
 
-## Integrantes del Equipo
-* **Joel Franco Molina** - Programador
-* **Leo** - probador
-* **Jhonn** - encargado de base de datos
+---
 
-## Tecnologías
-* Lenguaje de Programación: C#
-* Control de versiones: Git & GitHub
+## 📌 1. Problema y Valor Aportado
+* **Problema:** La administración del club realiza el registro de socios, cobranzas de cuotas y reserva de instalaciones de forma manual o desorganizada, lo que genera pérdida de datos y retrasos en la atención.
+* **Solución:** Un sistema de escritorio desarrollado en C# que centraliza el control de socios, pagos e instalaciones en una base de datos estructurada.
+* **Beneficiarios:** Administradores del club (gestión eficiente) y Socios (atención más rápida y clara).
+
+---
+
+## 🎯 2. Objetivos
+* **Objetivo General:** Desarrollar una aplicación de escritorio modular en C# para la automatización del registro de socios, cobro de cuotas y reserva de canchas en el club.
+* **Objetivos Específicos:**
+  1. Diseñar el modelo de datos relacional para gestionar la información de socios y pagos.
+  2. Implementar la interfaz gráfica de usuario para el registro y consulta de datos.
+  3. Validar las reglas de negocio mediante pruebas unitarias.
+
+---
+
+## 🚀 3. Alcance y MVP (Producto Mínimo Viable)
+
+### 🟢 Lo que SÍ incluye el MVP (Primera Entrega):
+- Módulo de Gestión de Socios (Altas, Bajas, Modificaciones y Consultas).
+- Módulo de Registro de Pagos / Cuotas mensuales.
+- Módulo de Reserva de Canchas e Instalaciones.
+- Reportes básicos en pantalla.
+
+### 🔴 Lo que NO incluye (Fuera de Alcance):
+- Pagos en línea mediante pasarelas con tarjeta de crédito/débito.
+- Notificaciones automáticas por correo electrónico o WhatsApp.
+- Aplicación móvil.
+
+---
+
+## 👥 4. Equipo y Responsabilidades
+* **Joel Franco Molina:** Programación y Desarrollo Core (C#).
+* **Leo:** Tester / Control de Calidad y Pruebas Unitarias.
+* **Jhonn:** Administración y Diseño de Base de Datos.
+
+---
+
+## 📂 5. Documentación del Proyecto
+* [📄 Historias de Usuario y Criterios de Aceptación](documentos/requisitos/historias_de_usuario.md)
+* [📊 Diagrama de Base de Datos (Modelo Lógico)](documentos/base-datos/modelo_logico.png)
+* [📅 Planificación y Diagrama de Gantt](documentos/planificacion/gantt.md)
