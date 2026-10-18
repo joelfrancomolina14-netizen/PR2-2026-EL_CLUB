@@ -47,3 +47,5 @@
 * [📄 Historias de Usuario y Criterios de Aceptación](docs/requisitos/historias_de_usuario.md)
 * [⚠️ Análisis de Riesgos y Pruebas](docs/riesgos_y_pruebas.md)
 * [📅 Planificación y Diagrama de Gantt](docs/planificacion/gantt.md)
+
+* [📊 Diagrama de Base de Datos (Modelo Lógico)](documentos/base-datos/10-09-MODELOLOGICOOFICIAL.txt.drawio.png)
