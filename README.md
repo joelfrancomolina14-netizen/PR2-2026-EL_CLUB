@@ -44,6 +44,6 @@
 ---
 
 ## 📂 5. Documentación del Proyecto
-* [📄 Historias de Usuario y Criterios de Aceptación](documentos/requisitos/historias_de_usuario.md)
-* [📊 Diagrama de Base de Datos (Modelo Lógico)](documentos/base-datos/modelo_logico.png)
-* [📅 Planificación y Diagrama de Gantt](documentos/planificacion/gantt.md)
+* [📄 Historias de Usuario y Criterios de Aceptación](docs/requisitos/historias_de_usuario.md)
+* [⚠️ Análisis de Riesgos y Pruebas](docs/requisitos/riesgos_y_pruebas.md)
+* [📅 Planificación y Diagrama de Gantt](docs/planificacion/gantt.md)
