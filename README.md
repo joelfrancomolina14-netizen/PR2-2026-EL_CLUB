@@ -45,5 +45,5 @@
 
 ## 📂 5. Documentación del Proyecto
 * [📄 Historias de Usuario y Criterios de Aceptación](docs/requisitos/historias_de_usuario.md)
-* [⚠️ Análisis de Riesgos y Pruebas](docs/requisitos/riesgos_y_pruebas.md)
+* [⚠️ Análisis de Riesgos y Pruebas](documentos/riesgos_y_pruebas.md)
 * [📅 Planificación y Diagrama de Gantt](docs/planificacion/gantt.md)
